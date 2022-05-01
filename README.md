@@ -1,2 +1,0 @@
-# csqproject
- test1
